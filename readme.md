@@ -1,4 +1,4 @@
-# Frontend & Backend Developer in Japan👋
+# Newbee Developer in Japan👋
 
 ### Engineer in their 30s
 
