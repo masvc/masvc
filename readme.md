@@ -1,14 +1,8 @@
 # Frontend & Backend Developer in Japan👋
 
-### Around 30-year-old Engineer
+### Engineer in their 30s
 
 ### Feel free to contact me!👍
-
-# Contact
-
-<p align="left">
-<a href="https://twitter.com/masvc_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="masvc_" height="30" width="40" /></a>
-</p>
 
 # Skill Set
 
