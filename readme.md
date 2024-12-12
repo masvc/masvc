@@ -6,14 +6,14 @@
 
 # Skill Set
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,firebase,github,vscode,discord" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,firebase,github,vscode,laravel,docker,discord" /> <br /><br />
 
 ※Other skills and tools
 Git, jQuery
 
 # Currently Learning
 
-<img src="https://skillicons.dev/icons?i=react,vue,next,typescript,laravel,docker,gitlab,aws,vite" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=react,vue,next,typescript,gitlab,aws,vite" /> <br /><br />
 
 <!-- --------------------------------- :) ---------------------------------- -->
 
