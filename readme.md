@@ -6,7 +6,7 @@
 
 # Skill Set
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,firebase,github,vscode,laravel,docker,discord,react,swift" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,firebase,github,vscode,laravel,docker,discord,react,swift,unity" /> <br /><br />
 
 ※Other skills and tools
 Git, jQuery
