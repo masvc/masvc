@@ -1,23 +1,24 @@
-# Newbee Developer in Japan👋
+# Newbie Developer in Japan 👋
 
-### Engineer in their 30s
+### Engineer in 30s  
 
-### Feel free to contact me!👍
+### Feel free to contact me! 👍  
 
-# Skill Set
+---
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,firebase,github,vscode,laravel,docker,discord,react,swift,unity" /> <br /><br />
+## 🛠 Skill Set  
 
-※Other skills and tools
-Git, jQuery
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,firebase,github,git,vscode,laravel,docker,discord,react,swift,unity,jquery" />  
 
-# Currently Learning
+<br />
 
-<img src="https://skillicons.dev/icons?i=vue,next,typescript,gitlab,aws,vite" /> <br /><br />
+### 🔥 Currently Learning  
 
-<!-- --------------------------------- :) ---------------------------------- -->
+<img src="https://skillicons.dev/icons?i=vue,next,typescript,gitlab,aws,vite" />  
 
-<br><br><br>
+---
+
+<br>
 
 <div align="center">
     <h1>
@@ -27,5 +28,14 @@ Git, jQuery
         <img src="https://user-images.githubusercontent.com/44926913/175853109-f8850656-6704-4a8a-bee6-9aca154d929b.gif">・
         <img src="https://user-images.githubusercontent.com/44926913/175853154-5449d974-975e-44a6-ab84-a86031265e40.gif">・・・・
     </h1>
-  </div>
-<br><br><br>
+</div>
+
+---
+
+## 📊 GitHub Stats  
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masvc&theme=github)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=masvc&theme=github)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=masvc&theme=github&utcOffset=9)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=masvc&theme=github)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=masvc&theme=github)  
