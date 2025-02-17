@@ -3,7 +3,6 @@
 ### Full-Stack Developer specializing in Web & iOS Development
 
 Passionate about turning innovative ideas into reality with clean, efficient code. 🚀
-Leveraging AI-powered development tools to enhance productivity and code quality.
 
 [![GitHub followers](https://img.shields.io/github/followers/masvc?label=Follow&style=social)](https://github.com/masvc)
 
@@ -11,16 +10,7 @@ Leveraging AI-powered development tools to enhance productivity and code quality
 
 ## 🛠 Tech Stack
 
-### Development
-
 <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,firebase,github,git,vscode,laravel,docker,discord,react,swift,unity,jquery" />
-
-### AI & Modern Tools
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow" /> 
-![Cursor](https://img.shields.io/badge/Cursor-IDE-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=github&logoColor=white)
 
 ### 📚 Currently Exploring
 
