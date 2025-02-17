@@ -1,8 +1,8 @@
-# Newbie Developer in Japan 👋
+# Software Engineer based in Japan 👋
 
-### WEB と iOS アプリケーション開発を中心に活動しています。
+### Full-Stack Developer specializing in Web & iOS Development
 
-アイデアを素早くカタチにすることをモットーにしています。🚀
+Passionate about turning innovative ideas into reality with clean, efficient code. 🚀
 
 [![GitHub followers](https://img.shields.io/github/followers/masvc?label=Follow&style=social)](https://github.com/masvc)
 
@@ -12,7 +12,7 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,firebase,github,git,vscode,laravel,docker,discord,react,swift,unity,jquery" />
 
-### 📚 Learning
+### 📚 Currently Exploring
 
 <img src="https://skillicons.dev/icons?i=vue,next,typescript,gitlab,aws,vite" />
 
@@ -30,12 +30,6 @@
 
 ---
 
-### 📫 How to reach me:
+### 📫 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/your_linkedin)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:your_email@example.com)
-
-### 👨‍💻 This week I spent my time on:
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+[![X (Twitter)](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/masvc_)
