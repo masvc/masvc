@@ -1,5 +1,3 @@
-好きな言語を
-
 # Software Engineer based in Japan 👋
 
 ### Full-Stack Developer specializing in Web & iOS Development
