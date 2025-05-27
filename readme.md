@@ -14,7 +14,7 @@ Passionate about turning innovative ideas into reality with clean, efficient cod
 
 ---
 
-## 📊 Stats
+## 📊 Status
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masvc&theme=github)  
 
