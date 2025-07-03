@@ -22,10 +22,6 @@ Passionate about turning innovative ideas into reality with clean, efficient cod
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=masvc&theme=github&utcOffset=9)
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=masvc&theme=flat&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 
 ### 📫 Connect with me:
