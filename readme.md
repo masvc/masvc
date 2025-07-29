@@ -10,7 +10,7 @@ Passionate about turning innovative ideas into reality with clean, efficient cod
 
 ## 🛠 Tech Stack &  📚 Currently Exploring
 
-<img src="https://skillicons.dev/icons?i=js,typescript,react,python,nestjs,php,laravel,swift,html,css,mysql,docker,git,github,vscode,vite,playwright,go,jquery,unity" />
+<img src="https://skillicons.dev/icons?i=js,typescript,react,python,nestjs,php,laravel,swift,html,css,mysql,docker,git,github,vscode,vite,go,jquery,unity" />
 
 ---
 
