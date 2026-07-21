@@ -14,16 +14,6 @@ Passionate about turning innovative ideas into reality with clean, efficient cod
 
 ---
 
-## 📊 Status
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masvc&theme=github)  
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=masvc&theme=github)  
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=masvc&theme=github&utcOffset=9)
-
----
-
 ### 📫 Connect with me:
 
 [![X (Twitter)](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/masvc_)
